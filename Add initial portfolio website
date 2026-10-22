@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Cloud Engineering Portfolio</title>
+  <meta name="description" content="My journey into cloud engineering, IT support, and Microsoft Azure.">
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f4f7fb;
+      color: #202938;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #123b65;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+
+    main {
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 20px;
+    }
+
+    section {
+      background: white;
+      padding: 24px;
+      margin-bottom: 20px;
+      border-radius: 10px;
+    }
+
+    h2 {
+      color: #1769aa;
+    }
+
+    footer {
+      text-align: center;
+      padding: 20px;
+      color: #5c6675;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Yusuf Kayode Gbadegesin</h1>
+    <p>IT Support | Aspiring Cloud Engineer</p>
+    <p>Learning, building, and documenting my cloud journey.</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>About Me</h2>
+      <p>
+        I have an IT support background and am developing my practical
+        skills in cloud computing, Microsoft Azure, troubleshooting,
+        and cloud infrastructure.
+      </p>
+    </section>
+
+    <section>
+      <h2>My Skills</h2>
+      <p>IT support, technical troubleshooting, Microsoft 365,
+      website management, and technical documentation.</p>
+    </section>
+
+    <section>
+      <h2>Cloud Projects</h2>
+      <p>
+        <strong>Project 1: Cloud Portfolio Website</strong><br>
+        Currently learning how to build a website, manage its files
+        with GitHub, and deploy it using Microsoft Azure.
+      </p>
+    </section>
+
+    <section>
+      <h2>Learning Goals</h2>
+      <p>
+        My goal is to develop practical skills in Azure services,
+        cloud administration, networking, security, and monitoring.
+      </p>
+    </section>
+  </main>
+
+  <footer>
+    <p>My cloud engineering journey — built one step at a time.</p>
+  </footer>
+</body>
+</html>
